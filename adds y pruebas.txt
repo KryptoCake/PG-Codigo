@@ -2,7 +2,7 @@
 2- esta es la primera linea de derbin, pero la segunda del demo
 <<<<<<< HEAD
 <<<<<<< HEAD
-
+-prueba de conflicto de krypto
 
 5-adds3 demo
 6-adds4 demo
