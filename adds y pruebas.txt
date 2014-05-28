@@ -11,9 +11,15 @@
 =======
 >>>>>>> 9a96c23d41b98ed3615632cf11ca29f638a60e3b
 
+
+
+
+funcion 1
 7-cambio
 8-cambio
 9-cambio
 10-cambio
 11-mi siguiente linea
 12-mic
+end
+
