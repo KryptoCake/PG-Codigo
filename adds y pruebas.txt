@@ -1,1 +1,9 @@
 1- esta es la primera linea de codigo es cortesia de kryptocake
+2- esta es la primera linea de derbin, pero la segunda del demo
+<<<<<<< HEAD
+
+
+5-adds3 demo
+6-adds4 demo
+=======
+>>>>>>> 9a96c23d41b98ed3615632cf11ca29f638a60e3b
