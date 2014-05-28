@@ -4,6 +4,9 @@
 <<<<<<< HEAD
 -prueba de conflicto de krypto
 
+13 change paragraph
+La ciencia (del latín scientia ‘conocimiento’) es el conjunto de conocimientos estructurados sistemáticamente. La ciencia es el conocimiento obtenido mediante la observación de patrones regulares, de razonamientos y de experimentación en ámbitos específicos, a partir de los cuales se generan preguntas, se construyen hipótesis, se deducen principios y se elaboran leyes generales y sistemas organizados por medio de un método científico.1
+
 5-adds3 demo
 6-adds4 demo
 =======
